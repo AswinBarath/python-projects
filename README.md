@@ -1,4 +1,8 @@
-# python-scripting-projects
+# python-projects
+<p>
+<img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" width="60%" alt="python-logo" />
+</p>
+
 **The most productive python scritpting projects**
 
 1. Image processing project: [GitHub Repo][1]
