@@ -16,7 +16,7 @@
 [GitHub Repo][1]
 
 <p>
-<img src="Password-checker.png" alt="Password-checker-logo"  width="60%"/>
+<img src="Password-checker.png" alt="Password-checker-logo"  width="50%"/>
 </p>
 
 
@@ -27,7 +27,7 @@
 [GitHub Repo][2]
 
 <p>
-<img src="Image-processing.png" alt="Image-processing-logo"  width="60%"/>
+<img src="Image-processing.png" alt="Image-processing-logo"  width="50%"/>
 </p>
 
 
@@ -38,7 +38,7 @@
 [GitHub Repo][3]
 
 <p>
-<img src="PDF-merger.png" alt="PDF-merger-logo"  width="60%"/>
+<img src="PDF-merger.png" alt="PDF-merger-logo"  width="50%"/>
 </p>
 
 
@@ -49,7 +49,7 @@
 [GitHub Repo][4]
 
 <p>
-<img src="PDF-watermarker.png" alt="PDF-watermarker-logo"  width="60%"/>
+<img src="PDF-watermarker.png" alt="PDF-watermarker-logo"  width="50%"/>
 </p>
 
 
@@ -60,7 +60,7 @@
 [GitHub Repo][5]
 
 <p>
-<img src="Email-sender.png" alt="Email-sender-logo"  width="60%"/>
+<img src="Email-sender.png" alt="Email-sender-logo"  width="50%"/>
 </p>
 
 
