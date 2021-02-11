@@ -6,6 +6,64 @@
 <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" width="60%" alt="python-logo" />
 </p>
 
+---
+
+## Python Portfolio Website:
+
+<strong>A portfolio built with the help of python on back-end</strong>
+
+[Live Website](http://aswinbarath.pythonanywhere.com/)<br>
+[GitHub Repo](https://github.com/AswinBarath/python-portfolio)
+
+<p>
+<img src="Python-portfolio.png" alt="Python-portfolio-logo"  width="50%"/>
+</p>
+
+
+## Machine Learning projects:
+
+### ML-classifier
+<strong>A Machnine Learning model which performs classification</strong>
+
+[GitHub Repo](https://github.com/AswinBarath/ML-classifier)
+
+<p>
+<img src="ML-classifier.png" alt="ML-classifier-logo"  width="50%"/>
+</p>
+
+### Image-recognition
+<strong>An image recognition script which uses a ML model to recognize a given image</strong>
+
+[GitHub Repo](https://github.com/AswinBarath/Image-recognition)
+
+<p>
+<img src="Image-recognition.png" alt="Image-recognition-logo"  width="50%"/>
+</p>
+
+
+## Automation projects:
+
+### Facebook-automation
+<strong>An automation script for automating sign up page</strong>
+
+[GitHub Repo](https://github.com/AswinBarath/Facebook-automation)
+
+<p>
+<img src="Facebook-automation.png" alt="Facebook-automation-logo"  width="50%"/>
+</p>
+
+
+## Web scrapping projects:
+
+### Hackernews Scrapper
+<strong>A python project on Web scrapping with Beautiful Soup</strong>
+
+[GitHub Repo](https://github.com/AswinBarath/Web-scrapper)
+
+<p>
+<img src="Web-scrapper.png" alt="Web-scrapper-logo"  width="50%"/>
+</p>
+
 
 ## Scripting Projects:
 
